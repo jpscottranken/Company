@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "445d60d4-ea7f-4a45-900a-303b28030d72": {
+      "ProjectGuid": "445d60d4-ea7f-4a45-900a-303b28030d72",
+      "DisplayName": "EmployeeLibrary",
+      "ColorIndex": 0
+    },
+    "30ab75cc-7d54-4649-bbff-ebfca1a1c9bb": {
+      "ProjectGuid": "30ab75cc-7d54-4649-bbff-ebfca1a1c9bb",
+      "DisplayName": "EmployeeConsole",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

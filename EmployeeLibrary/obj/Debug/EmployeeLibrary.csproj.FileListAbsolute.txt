@@ -1,0 +1,12 @@
+C:\Users\jpscott\Desktop\Company\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+C:\Users\jpscott\Desktop\Company\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+C:\Users\jpscott\Desktop\Company\EmployeeLibrary\obj\Debug\EmployeeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\Company\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+C:\Users\jpscott\Desktop\Company\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb
+C:\Users\jpscott\Desktop\Company\EmployeeLibrary\obj\Debug\EmployeeLibrary.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\01-22Misc\Company\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+C:\Users\jpscott\Desktop\01-22Misc\Company\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+C:\Users\jpscott\Desktop\01-22Misc\Company\EmployeeLibrary\obj\Debug\EmployeeLibrary.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\01-22Misc\Company\EmployeeLibrary\obj\Debug\EmployeeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\01-22Misc\Company\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+C:\Users\jpscott\Desktop\01-22Misc\Company\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb
